@@ -1,0 +1,223 @@
+{
+  "main": {
+    "id": "fb480f6eafdbbe97",
+    "type": "split",
+    "children": [
+      {
+        "id": "5c53dcd3ccc03b48",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2de7f7a178fcec7b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Noticias/N010.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "N010"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "998bb91e1c171b65",
+    "type": "split",
+    "children": [
+      {
+        "id": "6e28fae39cae1f16",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fad89990756fe593",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "ffeb9b98c933429d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "77806e450c524a18",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5746c2a674728284",
+    "type": "split",
+    "children": [
+      {
+        "id": "b93233de14f33e14",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ce3339e3953cce14",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Organizaciones/equipo-mt-0.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes"
+            }
+          },
+          {
+            "id": "8c0c2efba63bf433",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Organizaciones/equipo-mt-0.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes"
+            }
+          },
+          {
+            "id": "2a6129f9d9118a9f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "5662a264437dfccf",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas las propiedades"
+            }
+          },
+          {
+            "id": "9d5060425df56a49",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Organizaciones/equipo-mt-0.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Esquema"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Crear nueva base": false
+    }
+  },
+  "active": "2de7f7a178fcec7b",
+  "lastOpenFiles": [
+    "Noticias/N011.md",
+    "Noticias/N003.md",
+    "Organizaciones/equipo-mt-0.md",
+    "Noticias/N008.md",
+    "Personas/un-extranjero-con-situacion-migratoria-irregular.md",
+    "Personas/dos-sujetos-de-nacionalidad-colombiana.md",
+    "Personas/conductor-de-nacionalidad-ecuatoriana.md",
+    "Personas/claudio-valdivia.md",
+    "Personas/autor-confeso-del-homicidio.md",
+    "Organizaciones/redaccion-cooperativa.md",
+    "Organizaciones/fiscalia-equipo-de-crimen-organizado-y-homicidios-ecoh.md",
+    "Organizaciones/equipo-mt-0-de-la-pdi.md",
+    "Sin título.canvas",
+    "Sin título.base",
+    "Sin título 1.base",
+    "Organizaciones/fiscalia-ecoh.md",
+    "Organizaciones/ejercito-de-chile.md",
+    "Organizaciones/ecoh.md",
+    "Organizaciones/cooperativa.md",
+    "Organizaciones/carabineros.md",
+    "Organizaciones/banda-narco.md",
+    "Organizaciones/aton.md",
+    "Organizaciones/21-comisaria.md",
+    "Personas/cristian-montre-soto.md",
+    "Personas/conductor-de-aplicacion-de-transporte.md",
+    "Personas/adolescente-de-17-anos.md",
+    "Personas/adolescente-de-16-anos.md",
+    "Objetos/arma-cortopunzante.md",
+    "Objetos/arma.md"
+  ]
+}
