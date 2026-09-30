@@ -1,0 +1,64 @@
+{
+  "id_noticia": "N005",
+  "titulo": "Prisión preventiva para otros dos imputados por crimen de carabinero en Renca: ya van cinco detenidos",
+  "fecha_publicacion": "2026-09-12",
+  "fuente": "BioBioChile",
+  "url": "https://www.biobiochile.cl/noticias/nacional/region-metropolitana/2026/09/12/prision-preventiva-para-otros-dos-imputados-por-crimen-de-carabinero-en-renca-ya-van-cinco-detenidos.shtml",
+  "resumen": "Dos nuevos imputados, un hombre y una mujer chilenos, quedaron en prisión preventiva por ser encubridores en el homicidio de un carabinero en Renca, RM. La Fiscalía ECOH reveló que formaban parte de una red que facilitó la fuga ayudando con alojamiento y transporte. Ya son cinco los arrestados en la investigación.",
+  "delitos": [
+    "homicidio",
+    "encubrimiento"
+  ],
+  "personas": [
+    {
+      "nombre": "Cristián Paredes",
+      "rol": "fiscal ECOH"
+    },
+    {
+      "nombre": "Hombre chileno",
+      "rol": "imputado encubridor"
+    },
+    {
+      "nombre": "Mujer chilena",
+      "rol": "imputada encubridora"
+    },
+    {
+      "nombre": "Carabinero",
+      "rol": "víctima"
+    }
+  ],
+  "organizaciones": [
+    {
+      "nombre": "Fiscalía ECOH"
+    }
+  ],
+  "lugares": [
+    "Renca",
+    "Región Metropolitana"
+  ],
+  "objetos": [
+    {
+      "tipo": "vehículo",
+      "nombre": "vehículos",
+      "cantidad": null,
+      "unidad": null
+    }
+  ],
+  "relaciones": [
+    {
+      "origen": "Hombre chileno",
+      "tipo": "imputado por encubrimiento de",
+      "destino": "homicidio de un carabinero"
+    },
+    {
+      "origen": "Mujer chilena",
+      "tipo": "imputada por encubrimiento de",
+      "destino": "homicidio de un carabinero"
+    },
+    {
+      "origen": "Cristián Paredes",
+      "tipo": "fiscal de",
+      "destino": "Fiscalía ECOH"
+    }
+  ]
+}

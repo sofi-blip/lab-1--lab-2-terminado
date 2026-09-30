@@ -1,0 +1,71 @@
+{
+  "id_noticia": "N002",
+  "titulo": "PDI desbarató red de narcotráfico en Los Ríos: 12 detenidos y 150 kilos de droga incautada",
+  "fecha_publicacion": "Viernes, 21 de Agosto de 2026",
+  "fuente": "Cooperativa",
+  "url": "https://www.cooperativa.cl/noticias/pais/policial/drogas/pdi-desbarato-red-de-narcotrafico-en-los-rios-12-detenidos-y-150-kilos/2026-08-21/123148.html",
+  "resumen": "La PDI desbarató una red de narcotráfico en la Región de Los Ríos con 12 detenidos y 150 kilos de droga incautada (marihuana, cocaína, ketamina y MDMA), la cual era adquirida en la Región Metropolitana para ser trasladada y comercializada en Valdivia y Río Bueno. Nueve imputados fueron formalizados y quedaron en prisión preventiva.",
+  "delitos": [
+    "narcotráfico"
+  ],
+  "personas": [
+    {
+      "nombre": "imputados",
+      "rol": "detenidos"
+    }
+  ],
+  "organizaciones": [
+    "PDI",
+    "Ministerio Público"
+  ],
+  "lugares": [
+    "Los Ríos",
+    "Región Metropolitana",
+    "Valdivia",
+    "Río Bueno"
+  ],
+  "objetos": [
+    {
+      "tipo": "droga",
+      "nombre": "marihuana",
+      "cantidad": "332000",
+      "unidad": "dosis"
+    },
+    {
+      "tipo": "droga",
+      "nombre": "cocaína",
+      "cantidad": null,
+      "unidad": null
+    },
+    {
+      "tipo": "droga",
+      "nombre": "ketamina",
+      "cantidad": null,
+      "unidad": null
+    },
+    {
+      "tipo": "droga",
+      "nombre": "comprimidos de MDMA",
+      "cantidad": null,
+      "unidad": null
+    },
+    {
+      "tipo": "droga",
+      "nombre": "droga",
+      "cantidad": "150",
+      "unidad": "kilos"
+    }
+  ],
+  "relaciones": [
+    {
+      "origen": "imputados",
+      "tipo": "adquirían",
+      "destino": "droga"
+    },
+    {
+      "origen": "PDI",
+      "tipo": "desbarató",
+      "destino": "red de narcotráfico"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "id_noticia": "N004",
+  "titulo": "Cayó narcobanda en Maipú y Recoleta: ocultaban la mercancía en la rueda de repuesto de un taxi",
+  "fecha_publicacion": "2026-08-30T13:53:00",
+  "fuente": "Cooperativa",
+  "url": "https://www.cooperativa.cl/noticias/pais/policial/drogas/cayo-narcobanda-en-maipu-y-recoleta-ocultaban-la-mercancia-en-la-rueda/2026-08-30/133248.html",
+  "resumen": "La intervención del equipo MT-0 de la PDI concluyó con el decomiso de cinco kilos de marihuana ocultos en la rueda de repuesto de un taxi, la detención de cuatro personas y la ubicación de los proveedores en Maipú y Recoleta.",
+  "delitos": [
+    "tráfico de drogas"
+  ],
+  "personas": [
+    {
+      "nombre": "cuatro personas",
+      "rol": "detenido"
+    },
+    {
+      "nombre": "proveedores",
+      "rol": "proveedor"
+    }
+  ],
+  "organizaciones": [
+    "PDI",
+    "equipo MT-0",
+    "Policía de Investigaciones"
+  ],
+  "lugares": [
+    "Maipú",
+    "Recoleta"
+  ],
+  "objetos": [
+    {
+      "tipo": "droga",
+      "nombre": "marihuana",
+      "cantidad": 5,
+      "unidad": "kilos"
+    },
+    {
+      "tipo": "vehículo",
+      "nombre": "taxi",
+      "cantidad": 1,
+      "unidad": "unidad"
+    },
+    {
+      "tipo": "parte de vehículo",
+      "nombre": "rueda de repuesto",
+      "cantidad": 1,
+      "unidad": "unidad"
+    }
+  ],
+  "relaciones": [
+    {
+      "origen": "equipo MT-0 de la PDI",
+      "tipo": "ubica",
+      "destino": "proveedores"
+    },
+    {
+      "origen": "equipo MT-0 de la PDI",
+      "tipo": "decomisa",
+      "destino": "cinco kilos de marihuana"
+    },
+    {
+      "origen": "equipo MT-0 de la PDI",
+      "tipo": "detiene",
+      "destino": "cuatro personas"
+    }
+  ]
+}

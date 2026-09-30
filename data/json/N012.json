@@ -1,0 +1,49 @@
+{
+  "id_noticia": "N012",
+  "titulo": "PDI desarticuló banda narco transnacional e incautó más de 800 kilos de marihuana",
+  "fecha_publicacion": "Domingo, 13 de Septiembre de 2026",
+  "fuente": "Cooperativa",
+  "url": "https://www.cooperativa.cl/noticias/pais/policial/drogas/pdi-desarticuló-banda-narco-transnacional-e-incautó-más-de-800-kilos-de/2026-09-13/135126.html",
+  "resumen": "La PDI desarticuló una banda narco transnacional en el marco de la Operación Pacto Andino IV, deteniendo a cuatro personas e incautando más de 800 kilos de marihuana que eran internados desde Bolivia con destino a la Región Metropolitana.",
+  "delitos": [
+    "tráfico de drogas"
+  ],
+  "personas": [
+    {
+      "nombre": "Cuatro personas",
+      "rol": "detenido"
+    }
+  ],
+  "organizaciones": [
+    {
+      "nombre": "PDI"
+    },
+    {
+      "nombre": "banda narco transnacional"
+    }
+  ],
+  "lugares": [
+    "Bolivia",
+    "Región Metropolitana"
+  ],
+  "objetos": [
+    {
+      "tipo": "droga",
+      "nombre": "marihuana",
+      "cantidad": "más de 800",
+      "unidad": "kilos"
+    }
+  ],
+  "relaciones": [
+    {
+      "origen": "PDI",
+      "tipo": "desarticuló",
+      "destino": "banda narco transnacional"
+    },
+    {
+      "origen": "banda narco transnacional",
+      "tipo": "internaba",
+      "destino": "marihuana"
+    }
+  ]
+}

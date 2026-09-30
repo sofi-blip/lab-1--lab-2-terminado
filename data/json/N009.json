@@ -1,0 +1,81 @@
+{
+  "id_noticia": "N009",
+  "titulo": "Tení­a 16 aÃ±os y era extranjero: lo que se sabe del secuestro con homicidio de joven en Buin",
+  "fecha_publicacion": "Domingo 27 Septiembre, 2026",
+  "fuente": "BioBioChile",
+  "url": "https://www.biobiochile.cl/noticias/nacional/region-metropolitana/2026/09/27/tenia-16-anos-y-era-extranjero-lo-que-se-sabe-del-secuestro-con-homicidio-de-joven-en-buin.shtml",
+  "resumen": "Un joven extranjero de 16 aÃ±os fue secuestrado junto a un amigo de 19 aÃ±os en Puente Alto y trasladado a un sitio eriazo en Buin, donde fue asesinado con al menos tres disparos por la espalda.",
+  "delitos": [
+    "secuestro",
+    "homicidio"
+  ],
+  "personas": [
+    {
+      "nombre": "Joven de 16 años",
+      "rol": "víctima"
+    },
+    {
+      "nombre": "Amigo de 19 años",
+      "rol": "sobreviviente"
+    },
+    {
+      "nombre": "Marcela Adasme",
+      "rol": "fiscal"
+    },
+    {
+      "nombre": "Walt Dapremont",
+      "rol": "subprefecto"
+    }
+  ],
+  "organizaciones": [
+    {
+      "nombre": "ECOH Metropolitano",
+      "tipo": "Fiscalía"
+    },
+    {
+      "nombre": "PDI",
+      "tipo": "Policía"
+    },
+    {
+      "nombre": "Brigada de Homicidios Metropolitana",
+      "tipo": "Policía"
+    }
+  ],
+  "lugares": [
+    "Buin",
+    "Puente Alto",
+    "Autopista Acceso Sur",
+    "Región Metropolitana"
+  ],
+  "objetos": [
+    {
+      "tipo": "arma de fuego",
+      "nombre": "armas de fuego",
+      "cantidad": null,
+      "unidad": null
+    },
+    {
+      "tipo": "vehículo",
+      "nombre": "vehículo",
+      "cantidad": 1,
+      "unidad": null
+    }
+  ],
+  "relaciones": [
+    {
+      "origen": "sujetos",
+      "tipo": "secuestraron",
+      "destino": "Joven de 16 años"
+    },
+    {
+      "origen": "sujetos",
+      "tipo": "secuestraron",
+      "destino": "Amigo de 19 años"
+    },
+    {
+      "origen": "sujetos",
+      "tipo": "asesinaron",
+      "destino": "Joven de 16 años"
+    }
+  ]
+}

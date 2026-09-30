@@ -1,0 +1,85 @@
+{
+  "id_noticia": "N006",
+  "titulo": "Detienen a dos menores de 15 y 16 años por homicidio de adolescente en Calama",
+  "fecha_publicacion": "2026-09-08",
+  "fuente": "BioBioChile",
+  "url": "https://www.biobiochile.cl/noticias/nacional/region-de-antofagasta/2026/09/08/detienen-a-dos-menores-de-15-y-16-anos-por-homicidio-de-adolescente-en-calama.shtml",
+  "resumen": "Dos adolescentes de 15 y 16 años fueron detenidos en Calama por su presunta participación en el homicidio de un joven de 15 años ocurrido el pasado 3 de septiembre. Carabineros y Fiscalía ECOH identificaron a los responsables tras un extenso trabajo investigativo, determinando que la víctima fue agredida con un arma cortopunzante.",
+  "delitos": [
+    "homicidio"
+  ],
+  "personas": [
+    {
+      "nombre": "adolescente de 15 años",
+      "rol": "víctima"
+    },
+    {
+      "nombre": "adolescente de 15 años",
+      "rol": "imputado"
+    },
+    {
+      "nombre": "adolescente de 16 años",
+      "rol": "imputado"
+    },
+    {
+      "nombre": "Cristian Montre Soto",
+      "rol": "jefe de la Zona de Carabineros Antofagasta"
+    },
+    {
+      "nombre": "Juan Castro Bekios",
+      "rol": "fiscal regional"
+    }
+  ],
+  "organizaciones": [
+    "Carabineros",
+    "Fiscalía ECOH",
+    "Labocar",
+    "OS9",
+    "SIP",
+    "Sección de Encargo y Búsqueda de Vehículos (SEBV)",
+    "1ª Comisaría de Calama",
+    "Ministerio Público",
+    "Fiscalía Regional",
+    "Juzgado de Garantía de Calama"
+  ],
+  "lugares": [
+    "Calama",
+    "región de Antofagasta",
+    "sector urbano de Calama"
+  ],
+  "objetos": [
+    {
+      "tipo": "arma",
+      "nombre": "arma cortopunzante",
+      "cantidad": 1,
+      "unidad": null
+    }
+  ],
+  "relaciones": [
+    {
+      "origen": "adolescente de 15 años",
+      "tipo": "víctima de",
+      "destino": "homicidio"
+    },
+    {
+      "origen": "adolescente de 15 años",
+      "tipo": "imputado de",
+      "destino": "homicidio"
+    },
+    {
+      "origen": "adolescente de 16 años",
+      "tipo": "imputado de",
+      "destino": "homicidio"
+    },
+    {
+      "origen": "Carabineros",
+      "tipo": "investiga",
+      "destino": "homicidio"
+    },
+    {
+      "origen": "Fiscalía ECOH",
+      "tipo": "investiga",
+      "destino": "homicidio"
+    }
+  ]
+}

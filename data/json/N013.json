@@ -1,0 +1,68 @@
+{
+  "id_noticia": "N013",
+  "titulo": "PDI desarticuló focos de venta y acopio de banda narco en Puente Alto",
+  "fecha_publicacion": "2026-09-12",
+  "fuente": "Cooperativa",
+  "url": "https://www.cooperativa.cl/noticias/pais/policial/drogas/pdi-desarticulo-focos-de-venta-y-acopio-de-banda-narco-en-puente-alto/2026-09-12/103145.html",
+  "resumen": "La PDI desarticuló focos de venta y acopio de una banda narco en Puente Alto, ingresando a la población San Pedro, deteniendo a seis personas adultas de nacionalidad chilena y decomisando 28 millones de pesos en drogas y diversas armas.",
+  "delitos": [
+    "narcotráfico",
+    "disparos injustificados",
+    "tenencia ilegal de arma de fuego"
+  ],
+  "personas": [
+    {
+      "nombre": "seis personas",
+      "rol": "detenidos"
+    }
+  ],
+  "organizaciones": [
+    "PDI",
+    "banda narco"
+  ],
+  "lugares": [
+    "Puente Alto",
+    "población San Pedro"
+  ],
+  "objetos": [
+    {
+      "tipo": "dinero/droga",
+      "nombre": "pesos en drogas",
+      "cantidad": "28000000",
+      "unidad": "pesos"
+    },
+    {
+      "tipo": "arma",
+      "nombre": "diversas armas",
+      "cantidad": null,
+      "unidad": null
+    }
+  ],
+  "relaciones": [
+    {
+      "origen": "PDI",
+      "tipo": "desarticuló",
+      "destino": "banda narco"
+    },
+    {
+      "origen": "PDI",
+      "tipo": "detuvo",
+      "destino": "seis personas"
+    },
+    {
+      "origen": "seis personas",
+      "tipo": "cometieron",
+      "destino": "narcotráfico"
+    },
+    {
+      "origen": "seis personas",
+      "tipo": "cometieron",
+      "destino": "disparos injustificados"
+    },
+    {
+      "origen": "seis personas",
+      "tipo": "cometieron",
+      "destino": "tenencia ilegal de arma de fuego"
+    }
+  ]
+}

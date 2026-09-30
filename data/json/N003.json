@@ -1,0 +1,92 @@
+{
+  "id_noticia": "N003",
+  "titulo": "PDI detuvo a dos colombianos por el crimen: el presunto ajuste de cuentas narco detrás de horroroso homicidio en Curacaví",
+  "fecha_publicacion": "2024-06-05",
+  "fuente": "LaTercera",
+  "url": "https://www.latercera.com/nacional/noticia/pdi-detuvo-a-dos-colombianos-por-el-crimen-el-presunto-ajuste-de-cuenas-narco-detras-de-horroroso-homicidio-en-curacavi/",
+  "resumen": "Dos ciudadanos colombianos fueron detenidos por la PDI por su participación en el homicidio calificado, tortura y desmembramiento de una persona en Curacaví, en un hecho vinculado preliminarmente al narcotráfico.",
+  "delitos": [
+    "homicidio",
+    "homicidio calificado",
+    "tortura",
+    "desmembramiento",
+    "tráfico de droga"
+  ],
+  "personas": [
+    {
+      "nombre": "Walt Dapremont",
+      "rol": "subprefecto jefe subrogante de la Brigada de Homicidios Metropolitana de la PDI"
+    },
+    {
+      "nombre": "Ernesto Navarro",
+      "rol": "fiscal ECOH"
+    },
+    {
+      "nombre": "Víctima no identificada",
+      "rol": "víctima"
+    },
+    {
+      "nombre": "Dos sujetos detenidos",
+      "rol": "imputados"
+    }
+  ],
+  "organizaciones": [
+    "Policía de Investigaciones",
+    "PDI",
+    "Brigada de Homicidios Metropolitana",
+    "Fiscalía Equipo de Crimen Organizado y Homicidios",
+    "ECOH",
+    "Ministerio Público",
+    "organización internacional del tráfico de droga"
+  ],
+  "lugares": [
+    "Chile",
+    "Colombia",
+    "Curacaví",
+    "Región Metropolitana",
+    "Callejón La Aurora"
+  ],
+  "objetos": [
+    {
+      "tipo": "vehículo",
+      "nombre": "vehículo",
+      "cantidad": 1,
+      "unidad": "unidad"
+    },
+    {
+      "tipo": "cámaras de seguridad",
+      "nombre": "cámaras de seguridad",
+      "cantidad": 50,
+      "unidad": "cámaras"
+    },
+    {
+      "tipo": "canastos plásticos",
+      "nombre": "canastos plásticos",
+      "cantidad": 2,
+      "unidad": "canastos"
+    },
+    {
+      "tipo": "combustible",
+      "nombre": "combustible",
+      "cantidad": null,
+      "unidad": null
+    }
+  ],
+  "relaciones": [
+    {
+      "origen": "Policía de Investigaciones",
+      "tipo": "detuvo a",
+      "destino": "Dos sujetos detenidos"
+    },
+    {
+      "origen": "Ernesto Navarro",
+      "tipo": "pertenece a",
+      "destino": "Fiscalía Equipo de Crimen Organizado y Homicidios"
+    },
+    {
+      "origen": "Walt Dapremont",
+      "tipo": "pertenece a",
+      "destino": "Brigada de Homicidios Metropolitana"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "id_noticia": "N014",
+  "titulo": "Cinco puntos de drogas fueron desarticulados en Antofagasta",
+  "fecha_publicacion": "2026-09-26",
+  "fuente": "Cooperativa",
+  "url": "https://www.cooperativa.cl/noticias/pais/region-de-antofagasta/cinco-puntos-de-drogas-fueron-desarticulados-en-antofagasta/2026-09-26/115041.html",
+  "resumen": "Un operativo policial denominado 'Operación Océano' permitió allanar cinco casas tras una denuncia anónima, logrando la detención de cinco hombres y cuatro mujeres, además de la incautación de droga, dinero en efectivo y un revólver. En paralelo, la PDI requisó 81 kilos de marihuana procesada y detuvo a un ciudadano extranjero.",
+  "delitos": [
+    "tráfico de drogas",
+    "tenencia ilegal de armas"
+  ],
+  "personas": [
+    {
+      "nombre": "Cinco hombres",
+      "rol": "detenido"
+    },
+    {
+      "nombre": "Cuatro mujeres",
+      "rol": "detenido"
+    },
+    {
+      "nombre": "Un extranjero",
+      "rol": "detenido"
+    }
+  ],
+  "organizaciones": [
+    {
+      "nombre": "PDI",
+      "tipo": "policial"
+    }
+  ],
+  "lugares": [
+    "Antofagasta",
+    "cinco casas"
+  ],
+  "objetos": [
+    {
+      "tipo": "droga",
+      "nombre": "droga",
+      "cantidad": null,
+      "unidad": null
+    },
+    {
+      "tipo": "dinero",
+      "nombre": "dinero en efectivo",
+      "cantidad": null,
+      "unidad": null
+    },
+    {
+      "tipo": "arma",
+      "nombre": "revólver",
+      "cantidad": "1",
+      "unidad": "unidad"
+    },
+    {
+      "tipo": "droga",
+      "nombre": "marihuana procesada",
+      "cantidad": "81",
+      "unidad": "kilos"
+    }
+  ],
+  "relaciones": [
+    {
+      "origen": "PDI",
+      "tipo": "detuvo",
+      "destino": "Un extranjero"
+    },
+    {
+      "origen": "PDI",
+      "tipo": "requisó",
+      "destino": "marihuana procesada"
+    }
+  ]
+}

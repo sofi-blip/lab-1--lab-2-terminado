@@ -1,0 +1,87 @@
+{
+  "id_noticia": "N015",
+  "titulo": "Cuatro detenidos y más de 1,6 toneladas de droga incautada deja importante operativo policial",
+  "fecha_publicacion": null,
+  "fuente": "LaTercera",
+  "url": "https://www.latercera.com/nacional/noticia/cuatro-detenidos-y-mas-de-16-toneladas-de-droga-incautada-deja-importante-operativo-policial/",
+  "resumen": "Un operativo conjunto de la Fiscalía Supraterritorial y el OS7 de Carabineros permitió la detención de cuatro individuos y la incautación de más de 1,6 toneladas de droga transportada en un camión desde el norte hacia la Región Metropolitana.",
+  "delitos": [
+    "tráfico de drogas",
+    "crimen organizado"
+  ],
+  "personas": [
+    {
+      "nombre": "Miguel Ángel Orellana Pérez",
+      "rol": "Fiscal Supraterritorial"
+    },
+    {
+      "nombre": "Martín Arrau",
+      "rol": "Ministro de Seguridad Pública"
+    }
+  ],
+  "organizaciones": [
+    {
+      "nombre": "Fiscalía Supraterritorial",
+      "tipo": "institución"
+    },
+    {
+      "nombre": "OS7 de Carabineros",
+      "tipo": "institución"
+    },
+    {
+      "nombre": "Ejército de Chile",
+      "tipo": "institución"
+    }
+  ],
+  "lugares": [
+    "zona norte",
+    "Región Metropolitana",
+    "Región de Antofagasta",
+    "Chile",
+    "Bolivia"
+  ],
+  "objetos": [
+    {
+      "tipo": "droga",
+      "nombre": "droga",
+      "cantidad": "1.6",
+      "unidad": "toneladas"
+    },
+    {
+      "tipo": "droga",
+      "nombre": "droga",
+      "cantidad": "1600",
+      "unidad": "kilos"
+    },
+    {
+      "tipo": "droga",
+      "nombre": "marihuana",
+      "cantidad": null,
+      "unidad": null
+    },
+    {
+      "tipo": "vehículo",
+      "nombre": "camión",
+      "cantidad": "1",
+      "unidad": "unidad"
+    },
+    {
+      "tipo": "dinero",
+      "nombre": "dinero",
+      "cantidad": "18000000000",
+      "unidad": "pesos"
+    }
+  ],
+  "relaciones": [
+    {
+      "origen": "Fiscalía Supraterritorial",
+      "tipo": "realizó operativo con",
+      "destino": "OS7 de Carabineros"
+    },
+    {
+      "origen": "Fiscalía Supraterritorial",
+      "tipo": "dirigió investigación de",
+      "destino": "droga"
+    }
+  ]
+}

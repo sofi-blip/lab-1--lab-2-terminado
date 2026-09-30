@@ -1,0 +1,59 @@
+{
+  "id_noticia": "N001",
+  "titulo": "Investigan asesinato en San Ramón: hombre muere tras ataque a tiros en población La Bandera",
+  "fecha_publicacion": "2026-09-01",
+  "fuente": "BioBioChile",
+  "url": "https://www.biobiochile.cl/noticias/nacional/region-metropolitana/2026/09/01/investigan-asesinato-en-san-ramon-hombre-muere-tras-ataque-a-tiros-en-poblacion-la-bandera.shtml",
+  "resumen": "Un hombre de 45 años fue asesinado a disparos en la población La Bandera, comuna de San Ramón, tras ser abordado por dos sujetos. El caso es investigado por la PDI y la Fiscalía Metropolitana Sur.",
+  "delitos": [
+    "asesinato",
+    "robo"
+  ],
+  "personas": [
+    {
+      "nombre": "Manuel Urrutia",
+      "rol": "comisario de la Brigada de Homicidios de la PDI"
+    },
+    {
+      "nombre": "José Manuel Mac-Namara",
+      "rol": "fiscal Sur"
+    }
+  ],
+  "organizaciones": [
+    "Fiscalía Metropolitana Sur",
+    "Brigada de Homicidios de la PDI",
+    "PDI",
+    "Fiscalía Sur"
+  ],
+  "lugares": [
+    "San Ramón",
+    "población La Bandera",
+    "calles Riquelme con avenida Almirante Latorre"
+  ],
+  "objetos": [
+    {
+      "tipo": "arma de fuego",
+      "nombre": "arma de fuego",
+      "cantidad": null,
+      "unidad": null
+    },
+    {
+      "tipo": "munición",
+      "nombre": "disparos",
+      "cantidad": "6",
+      "unidad": "impactos"
+    }
+  ],
+  "relaciones": [
+    {
+      "origen": "Manuel Urrutia",
+      "tipo": "pertenece_a",
+      "destino": "Brigada de Homicidios de la PDI"
+    },
+    {
+      "origen": "José Manuel Mac-Namara",
+      "tipo": "pertenece_a",
+      "destino": "Fiscalía Metropolitana Sur"
+    }
+  ]
+}

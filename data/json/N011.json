@@ -1,0 +1,36 @@
+{
+  "id_noticia": "N011",
+  "titulo": "En Estación Central detuvieron a presunto autor material de crimen de carabinero",
+  "fecha_publicacion": "2026-09-23",
+  "fuente": "Cooperativa",
+  "url": "https://www.cooperativa.cl/noticias/pais/policial/homicidios/en-estacion-central-detuvieron-a-presunto-autor-material-de-crimen-de/2026-09-23/221628.html",
+  "resumen": "En Estación Central detuvieron a presunto autor material de crimen de carabinero. Es el séptimo detenido en la causa, en la que todos los involucrados se encuentran en prisión preventiva.",
+  "delitos": [
+    "homicidio",
+    "crimen de carabinero"
+  ],
+  "personas": [
+    {
+      "nombre": "Redacción Cooperativa",
+      "rol": "autor"
+    }
+  ],
+  "organizaciones": [
+    "Cooperativa",
+    "Google",
+    "Whatsapp",
+    "ATON",
+    "carabinero"
+  ],
+  "lugares": [
+    "Estación Central"
+  ],
+  "objetos": [],
+  "relaciones": [
+    {
+      "origen": "Redacción Cooperativa",
+      "tipo": "es autor de",
+      "destino": "N011"
+    }
+  ]
+}

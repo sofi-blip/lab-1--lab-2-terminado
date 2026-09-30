@@ -1,0 +1,60 @@
+{
+  "id_noticia": "N010",
+  "titulo": "Detienen a 'Chureja', presunto implicado en asesinato de carabinero en Renca",
+  "fecha_publicacion": "2026-09-23",
+  "fuente": "BioBioChile",
+  "url": "https://www.biobiochile.cl/noticias/nacional/region-metropolitana/2026/09/23/detienen-a-chureja-presunto-implicado-en-asesinato-de-carabinero-en-renca.shtml",
+  "resumen": "Detienen a Claudio Valdivia, alias 'Chureja', acusado de asesinar a un carabinero en Renca en agosto. Fue capturado en Estación Central tras una fiscalización y estaba prófugo por robo con homicidio del cabo 2º Alejandro Ortiz.",
+  "delitos": [
+    "robo con homicidio",
+    "asesinato"
+  ],
+  "personas": [
+    {
+      "nombre": "Claudio Alejandro Valdivia Erazo",
+      "rol": "implicado"
+    },
+    {
+      "nombre": "Alejandro Ortiz",
+      "rol": "víctima"
+    }
+  ],
+  "organizaciones": [
+    "Carabineros",
+    "21.ª Comisaría",
+    "Subcomisaría Conchalí Norte"
+  ],
+  "lugares": [
+    "Renca",
+    "Estación Central",
+    "población El Perejil",
+    "plaza Chile-España",
+    "calle 21 de Mayo con Miraflores"
+  ],
+  "objetos": [
+    {
+      "tipo": "arma",
+      "nombre": "impacto balístico",
+      "cantidad": 1,
+      "unidad": "impacto"
+    },
+    {
+      "tipo": "elementos tecnológicos",
+      "nombre": "elementos tecnológicos",
+      "cantidad": null,
+      "unidad": null
+    }
+  ],
+  "relaciones": [
+    {
+      "origen": "Claudio Alejandro Valdivia Erazo",
+      "tipo": "participó en",
+      "destino": "robo con homicidio"
+    },
+    {
+      "origen": "Claudio Alejandro Valdivia Erazo",
+      "tipo": "atacó a",
+      "destino": "Alejandro Ortiz"
+    }
+  ]
+}
